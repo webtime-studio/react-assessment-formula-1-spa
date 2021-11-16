@@ -16,7 +16,7 @@ You will create a dashboard with Formula-1 racers and winners.
 
 ### API
 
-Please use [​https://ergast.com/mrd/​](http://ergast.com/mrd/​) as the API for this application. You also can find all the documentation you need over there.
+Please use [​https://ergast.com/mrd](https://ergast.com/mrd) as the API for this application. You also can find all the documentation you need over there.
 
 ## Allowed Technologies
 
