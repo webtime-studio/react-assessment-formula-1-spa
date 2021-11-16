@@ -1,4 +1,4 @@
-# Webtime.Studio Frontend Assessment React SPA (Q4 2021)
+# Frontend Assessment React SPA (Q4 2021)
 
 ## Application Description
 
