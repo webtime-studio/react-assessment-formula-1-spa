@@ -14,6 +14,10 @@ You will create a dashboard with Formula-1 racers and winners.
 - Items in Favorites list can be removed
 - Racers from Favorites should be highlited
 
+### API
+
+Please use [​https://ergast.com/mrd/​](http://ergast.com/mrd/​) as the API for this application. You also can find all the documentation you need over there.
+
 ## Allowed Technologies
 
 - React, React-Router\*
@@ -21,11 +25,3 @@ You will create a dashboard with Formula-1 racers and winners.
 - Styled Components, CSS Modules
 
 \* It's possible to use custom setup or Create React App
-
-## API
-
-To make things simple for everyone, please use ​http://ergast.com/mrd/​ as the API for this application. The URL will provide you with all the documentation you need to take full advantage of the API
-
-## Application Requirements
-
-–
