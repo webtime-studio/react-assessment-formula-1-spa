@@ -1,5 +1,14 @@
 # Frontend Assessment React SPA (Q4 2021)
 
+## Allowed Technologies
+
+- React, React-Router\*
+- JavaScript, TypeScript
+- Styled Components, CSS Modules\*\*
+
+\* It's possible to use custom setup or Create React App  
+\*\* It's not allowed to use CSS frameworks like Bootstrap or Tailwind
+
 ## Application Description
 
 The purpose of this assessment is to check your familiarity with frontend technologies and methodologies, programming patterns and thought processes.
@@ -17,11 +26,3 @@ You will create a dashboard with Formula-1 racers and winners.
 ### API
 
 Please use [​https://ergast.com/mrd](https://ergast.com/mrd) as the API for this application. You also can find all the documentation you need over there.
-
-## Allowed Technologies
-
-- React, React-Router\*
-- JavaScript, TypeScript
-- Styled Components, CSS Modules
-
-\* It's possible to use custom setup or Create React App
