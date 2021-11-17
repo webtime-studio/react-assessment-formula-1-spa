@@ -14,14 +14,24 @@
 The purpose of this assessment is to check your familiarity with frontend technologies and methodologies, programming patterns and thought processes.
 You will create a dashboard with Formula-1 racers and winners.
 
-### This is the mandatory list of features:
+### Primary tasks:
 
-- Clickable list of seasons
-- List of racers per selected season
+- Clickable list of seasons;
+- List of racers per selected season accessible via its own route;
 - Top 3 winners are highlighted
-- Racers can be added to a Favorites list
-- Items in Favorites list can be removed
-- Racers from Favorites should be highlited
+- You can add or remove racers to Favorites;
+- Favorites list should be accessible via its own route, racers should stay there even after reload.
+
+### Secondary tasks
+
+- Application should be responsible;
+
+### Bonus tasks
+
+- Works offline;
+- Has tests Unit and E2E tests (like Cypress);
+- Has automated formatting and linting;
+- Deployed to hosting like **GitHub Pages** / **Vercel** / **Netlify**.
 
 ### API
 
