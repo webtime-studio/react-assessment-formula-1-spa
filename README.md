@@ -11,18 +11,18 @@ You will create a dashboard with Formula-1 seasons, rounds, and racers.
 \* It's possible to use custom setup or Create React App  
 \*\* It's not allowed to use CSS frameworks like Bootstrap or Tailwind
 
-## 2. Application Description
+## Application Description
 
 The purpose of this assessment is to check your familiarity with frontend technologies and methodologies, programming patterns, and thought processes – also, the structure and quality of your code matter.
 
-### 3. Primary tasks:
+### Primary tasks:
 
-1. Possibility to select a season;
-2. Clickable list of rounds per season;
-3. List of racers per selected round;
-4. Top 3 winners of the race are highlighted;
-5. You can add or remove racers to Favorites;
-6. Favorites list (racers should stay even after reload).
+- Possibility to select a season;
+- Clickable list of rounds per season;
+- List of racers per selected round;
+- Top 3 winners of the race are highlighted;
+- You can add or remove racers to Favorites;
+- Favorites list (racers should stay even after reload).
 
 ### Bonus tasks
 
