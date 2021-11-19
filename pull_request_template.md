@@ -1,4 +1,6 @@
-# Submitting a test assestment for review
+# Submitting a test assessment for review
+Congratulation! You completed your assessment. 
+Check what you've done using the fields below.  
 
 ## Completed tasks
 
@@ -11,17 +13,17 @@
 
 ## Bonus tasks
 
-- [ ] List of races is accessible via its own route;
-- [ ] List of drivers is accessible via its own route;
-- [ ] Favorites list should be accessible via its own route.
+- [ ] List of races is accessible via its route;
+- [ ] List of drivers is accessible via its route;
+- [ ] Favorites list should be accessible via its route.
 - [ ] Application should be responsive;
 - [ ] Works offline;
 - [ ] Has tests Unit and E2E tests (like Cypress).
 
 ## Time to complete
 
-Please fill how much time you spent to complete the assesstement.
+Would you please fill in how much time you spent to complete the assessment?
 
 ## Your comments
 
-If you have any comments feel free to leave them here.
+Please leave your comments here.
