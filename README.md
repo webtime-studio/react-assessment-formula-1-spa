@@ -1,6 +1,6 @@
 # Frontend Assessment React SPA
 
-You will create a dashboard with Formula-1 seasons, rounds and racers.
+You will create a dashboard with Formula-1 seasons, rounds, and racers.
 
 ## 1. Expected Technologies
 
@@ -13,7 +13,7 @@ You will create a dashboard with Formula-1 seasons, rounds and racers.
 
 ## 2. Application Description
 
-The purpose of this assessment is to check your familiarity with frontend technologies and methodologies, programming patterns and thought processes. Also the structure and quality of your code matters.
+The purpose of this assessment is to check your familiarity with frontend technologies and methodologies, programming patterns, and thought processes – also, the structure and quality of your code matter.
 
 ### 3. Primary tasks:
 
@@ -26,9 +26,9 @@ The purpose of this assessment is to check your familiarity with frontend techno
 
 ### Bonus tasks
 
-- List of races is accessible via its own route;
-- List of drivers is accessible via its own route;
-- Favorites list should be accessible via its own route.
+- List of races is accessible via its route;
+- List of drivers is accessible via its route;
+- Favorites list should be accessible via its route.
 - Application should be responsive;
 - Works offline;
 - Has tests Unit and E2E tests (like Cypress).
@@ -39,6 +39,8 @@ Please use [​https://ergast.com/mrd](https://ergast.com/mrd) as the API for th
 
 ### When you complete
 
-Create a PR to the repo. Fill out the pull request template.
+Create a PR for the repo. Fill out the pull request template.
+
+Good luck!
 
 **Last edition November 2021**
